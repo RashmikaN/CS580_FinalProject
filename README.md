@@ -8,4 +8,5 @@ The repository includes:
 
 The algorithms are implemented in Python and MySQL.
 
-
+## Contributors
+Rashmika Nattam and Mounika Boggada
